@@ -1,11 +1,16 @@
 _repo: Authors-at-home-Personal-and-biographical-sketches-of-well-known-American-writers_69728
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69728-h/images/cover.jpg
 creator:
   editor:
     agent_name: Gilder, J. L. & J. B.
     gutenberg_agent_id: '55393'
     url: http://www.gutenberg.org/2009/agents/55393
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69728#Authors-at-home-Personal-and-biographical-sketches-of-well-known-American-writers
 gutenberg_issued: '2023-01-07'
 identifiers:
   gutenberg: '69728'
